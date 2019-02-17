@@ -1,0 +1,6 @@
+com/amazonaws/lambda/model/Message.class
+com/amazonaws/lambda/model/DialogAction.class
+com/amazonaws/lambda/demo/LambdaFunctionHandler$1.class
+com/amazonaws/lambda/demo/LambdaFunctionHandler.class
+com/amazonaws/lambda/demo/NewsAlertsHandler.class
+com/amazonaws/lambda/model/AmazonLexResponse.class
